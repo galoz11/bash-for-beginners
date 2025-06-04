@@ -1,6 +1,6 @@
 # Bash for Beginners
 
-## Overview :)
+## Overview :
 
 These Microsoft Developer YouTube series is designed to help get you up to speed on Bash.  
 
